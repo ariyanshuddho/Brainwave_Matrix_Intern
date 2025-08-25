@@ -13,4 +13,4 @@ This task is about developing a **Text-to-Image Generation Application** using H
 2. Run the cells to generate images from your text prompts.
 
 ## Example Prompt
-"A futuristic cyberpunk city skyline at night"
+"A green car"
